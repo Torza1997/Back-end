@@ -1,1 +1,8 @@
-[{"id":0,"imgProfile":"","name":"Mockup User","coin":{"ten_coin":430,"five_coin":95,"two_coin":79}}]
+[
+  {
+    "id": 0,
+    "imgProfile": "",
+    "name": "Mockup User",
+    "coin": { "ten_coin": 999, "five_coin": 999, "two_coin": 995 }
+  }
+]
