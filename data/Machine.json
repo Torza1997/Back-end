@@ -1,0 +1,34 @@
+{
+    "Washing_Machine": [
+        {
+            "id": 0,
+            "machine_name": "A",
+            "machine_color": "#00FFB2"
+        },
+        {
+            "id": 1,
+            "machine_name": "B",
+            "machine_color": "#89A3FF"
+        },
+        {
+            "id": 2,
+            "machine_name": "C",
+            "machine_color": "#FFD809"
+        },
+        {
+            "id": 3,
+            "machine_name": "D",
+            "machine_color": "#DD7BFF"
+        },
+        {
+            "id": 4,
+            "machine_name": "E",
+            "machine_color": "#FFFFFF"
+        },
+        {
+            "id": 5,
+            "machine_name": "F",
+            "machine_color": "#00FFFF"
+        }
+    ]
+}
