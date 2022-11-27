@@ -12,9 +12,12 @@ const PORT = process.env.PORT || 5000;
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-
 //routes api
 app.use("/api", require("./router/api/all"));
+app.get("/test-api", (req, res) => {
+  res.send('hello world').end();
+});
+
 
 app.listen(PORT, () => {
   console.log(`server is running on port ${PORT}`);
